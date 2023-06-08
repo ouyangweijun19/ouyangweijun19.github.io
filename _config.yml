@@ -99,6 +99,9 @@ ignore:
 ## Themes: https://hexo.io/themes/
 theme: yilia
 
+#你的头像url
+avatar: https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fsafe-img.xhscdn.com%2Fbw1%2Fc886afa8-4f9c-459c-8fae-a45df948a4ab%3FimageView2%2F2%2Fw%2F1080%2Fformat%2Fjpg&refer=http%3A%2F%2Fsafe-img.xhscdn.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1688776515&t=2828758d616a4799ae43fd7364e80579
+
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
